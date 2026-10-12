@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# Banana Claude local output and capability state
+renders/
